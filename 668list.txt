@@ -1,3 +1,8 @@
+
+百度网盘,#genre#
+赠送链接,#genre#
+不会同步,#genre#
+重开链接,#genre#
 中央台线路1,#genre#
 CCTV1,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8
 CCTV2,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
