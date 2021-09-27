@@ -1,8 +1,8 @@
 {
     "sites": [
         {
-            "key": "榛樿璧勬簮",
-            "name": "榛樿璧勬簮",
+            "key": "默认资源",
+            "name": "默认资源",
             "type": 0,
             "api": "https://www.dianyingn.com/api.php/provide/vod/at/xml/",
             "playUrl": "",
@@ -10,16 +10,16 @@
             ]
         },
         {
-            "key": "鏋佸搧璧勬簮",
-            "name": "鏋佸搧璧勬簮",
+            "key": "极品资源",
+            "name": "极品资源",
             "type": 0,
             "api": "https://www.jpysvip.net/api.php/provide/vod/at/xml/",
             "categories": [                
             ]
         },
         {
-            "key": "绁為┈褰遍櫌",
-            "name": "绁為┈褰遍櫌",
+            "key": "神马影院",
+            "name": "神马影院",
             "type": 0,
             "api": "http://www.zitv.cc/api.php/provide/vod/at/xml/",
             "playUrl": "",
@@ -27,8 +27,8 @@
             ]
         },
         {
-            "key": "濂藉ソ璧勬簮",
-            "name": "濂藉ソ璧勬簮",
+            "key": "好好影院",
+            "name": "好好影院",
             "type": 0,
             "api": "http://haohaozy.com/api.php/provide/vod/at/xml/",
             "playUrl": "",
@@ -36,8 +36,8 @@
             ]
         },
         {
-            "key": "605璧勬簮",
-            "name": "605璧勬簮",
+            "key": "605资源",
+            "name": "605资源",
             "type": 0,
             "api": "http://www.605zy.co/inc/605m3u8.php",
             "playUrl": "",
@@ -45,8 +45,8 @@
             ]
         },
         {
-            "key": "鑺掓灉锛堥檺鎴愬勾浜猴級",
-            "name": "鑺掓灉锛堥檺鎴愬勾浜猴級",
+            "key": "芒果FU利",
+            "name": "芒果FU利",
             "type": 0,
             "api": "https://www.mgav1.cc/api.php/provide/vod/at/xml/",
             "playUrl": "",
@@ -55,15 +55,15 @@
             ]
         },
         {
-            "key": "鐣彿锛堥檺鎴愬勾浜猴級",
-            "name": "鐣彿锛堥檺鎴愬勾浜猴級",
+            "key": "番号FU利",
+            "name": "番号FU利",
             "type": 0,
             "api": "http://fhapi9.com/api.php/provide/vod/at/xml/",
             "playUrl": ""
         },
         {
-            "key": "椴ㄩ奔锛堥檺鎴愬勾浜猴級",
-            "name": "椴ㄩ奔锛堥檺鎴愬勾浜猴級",
+            "key": "鲨鱼FU利",
+            "name": "鲨鱼FU利",
             "type": 0,
             "api": "https://shayuapi.com/api.php/Seacms/vod/",
             "playUrl": "",
@@ -72,15 +72,15 @@
             ]
         },
         {
-            "key": "鐙挱搴�",
-            "name": "鐙挱搴�",
+            "key": "独播库",
+            "name": "独播库",
             "type": 1,
             "api": "http://api.dbyunzy.com/api.php/provide/vod/?ac=list",
             "playUrl": ""
         },
         {
-            "key": "BL瑙嗛",
-            "name": "BL瑙嗛",
+            "key": "BL视频",
+            "name": "BL视频",
             "type": 0,
             "api": "https://bljiex.com/api.php/provide/vod/at/xml",
             "playUrl": "",
@@ -88,8 +88,8 @@
             ]
         },
         {
-            "key": "鍓уソ鐪�",
-            "name": "鍓уソ鐪�",
+            "key": "剧好看",
+            "name": "剧好看",
             "type": 0,
             "api": "https://www.juhaokan.cc/api.php/provide/vod/at/xml",
             "playUrl": "",
@@ -97,8 +97,8 @@
             ]
         },
         {
-            "key": "榛戦攱褰辫",
-            "name": "榛戦攱褰辫",
+            "key": "黑锋影视",
+            "name": "黑锋影视",
             "type": 0,
             "api": "https://www.hfys8.vip/api.php/provide/vod/at/xml",
             "playUrl": "",
@@ -106,8 +106,8 @@
             ]
         },
         {
-            "key": "鐪嬬湅灞�",
-            "name": "鐪嬬湅灞�",
+            "key": "看看屋",
+            "name": "看看屋",
             "type": 0,
             "api": "http://www.kkkanju.com/api.php/provide/vod/at/xml",
             "playUrl": "",
@@ -115,8 +115,8 @@
             ]
         },
         {
-            "key": "鐏佃姖婧�",
-            "name": "鐏佃姖婧�",
+            "key": "灵芝源",
+            "name": "灵芝源",
             "type": 0,
             "api": "https://app.linzhiyuan.xyz/api.php/provide/vod/at/xml",
             "playUrl": "",
@@ -124,8 +124,8 @@
             ]
         },
         {
-            "key": "澶╃┖璧勬簮",
-            "name": "澶╃┖璧勬簮",
+            "key": "天空资源",
+            "name": "天空资源",
             "type": 0,
             "api": "https://api.tiankongapi.com/api.php/provide/vod/at/xml/from/tkm3u8/",
             "playUrl": "",
@@ -133,8 +133,8 @@
             ]
         },
         {
-            "key": "鍏垝浜�",
-            "name": "鍏垝浜�",
+            "key": "八戒云",
+            "name": "八戒云",
             "type": 0,
             "api": "http://cj.bajiecaiji.com/inc/bjm3u8.php",
             "playUrl": "",
@@ -142,8 +142,8 @@
             ]
         },
         {
-            "key": "蹇挱浜�",
-            "name": "蹇挱浜�",
+            "key": "快播云",
+            "name": "快播云",
             "type": 0,
             "api": "http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml/",
             "playUrl": "",
@@ -151,15 +151,15 @@
             ]
         },
         {
-            "key": "楗洟璧勬簮",
-            "name": "楗洟璧勬簮",
+            "key": "饭团资源",
+            "name": "饭团资源",
             "type": 0,
             "api": "http://fantuan.wkfile.com/api.php/provide/vod/at/xml/\n",
             "playUrl": ""
         },
         {
-            "key": "KK鐪嬪墽",
-            "name": "KK鐪嬪墽",
+            "key": "KK看剧",
+            "name": "KK看剧",
             "type": 0,
             "api": "http://www.kkkanju.com/api.php/provide/vod/at/xml",
             "playUrl": "",
@@ -167,8 +167,8 @@
             ]
         },
         {
-            "key": "钀屾灉璧勬簮",
-            "name": "钀屾灉璧勬簮",
+            "key": "萌果资源",
+            "name": "萌果资源",
             "type": 0,
             "api": "http://api.appearoo.top/api.php/provide/vod/at/xml/",
             "playUrl": "",
@@ -176,8 +176,8 @@
             ]
         },
         {
-            "key": "杩藉墽鍚�",
-            "name": "杩藉墽鍚�",
+            "key": "追剧吧",
+            "name": "追剧吧",
             "type": 0,
             "api": "http://www.huaxiab.com/api.php/provide/vod/at/xml",
             "playUrl": "",
@@ -185,22 +185,22 @@
             ]
         },
         {
-            "key": "360璧勬簮",
-            "name": "360璧勬簮",
+            "key": "360资源",
+            "name": "360资源",
             "type": 0,
             "api": "http://xa88.vip:88/api.php/provide/vod/at/xml",
             "playUrl": "https://www.2ajx.com/vip.php?url="
         },
         {
-            "key": "鏄熻景璧勬簮",
-            "name": "鏄熻景璧勬簮",
+            "key": "星辰资源",
+            "name": "星辰资源",
             "type": 1,
             "api": "http://www.zycaiji.net:7788/api.php/provide/vod",
             "playUrl": ""
         },
         {
-            "key": "1905鐢靛奖缃�",
-            "name": "1905璧勬簮",
+            "key": "1905资源",
+            "name": "1905资源",
             "type": 0,
             "api": "http://zy.yilans.net:8090/api.php/provide/vod/from/m1905/at/xml/",
             "playUrl": "http://api.u1o.net/?url=",
@@ -215,15 +215,15 @@
             "playUrl": ""
         },
         {
-            "key": "钃濆厜褰辫",
-            "name": "钃濆厜褰辫",
+            "key": "蓝光影视",
+            "name": "蓝光影视",
             "type": 0,
             "api": "https://09tv.top/api.php/provide/vod/at/xml",
             "playUrl": ""
         },
         {
-            "key": "39褰辫",
-            "name": "39褰辫",
+            "key": "39影视",
+            "name": "39影视",
             "type": 0,
             "api": "https://www.39kan.com/api.php/provide/vod/at/xml",
             "playUrl": "",
@@ -231,8 +231,8 @@
             ]
         },
         {
-            "key": "涓夐浂璧勬簮",
-            "name": "涓夐浂璧勬簮",
+            "key": "三零资源",
+            "name": "三零资源",
             "type": 0,
             "api": "http://api.000zy.com/provide/vod/at/xml/",
             "playUrl": "",
@@ -240,8 +240,8 @@
             ]
         },
         {
-            "key": "鏄庢棩璧勬簮",
-            "name": "鏄庢棩璧勬簮",
+            "key": "明日资源",
+            "name": "明日资源",
             "type": 0,
             "api": "http://zy.zcocc.com/api.php/provide/vod/at/xml",
             "playUrl": "",
@@ -249,8 +249,8 @@
             ]
         },
         {
-            "key": "鏌氬瓙璧勬簮",
-            "name": "鏌氬瓙璧勬簮",
+            "key": "柚子资源",
+            "name": "柚子资源",
             "type": 0,
             "api": "http://tv.aitesucai.xyz/api.php/provide/vod/at/xml",
             "playUrl": "",
@@ -258,8 +258,8 @@
             ]
         },
         {
-            "key": "瀹夐€稿奖闄�",
-            "name": "瀹夐€稿奖闄�",
+            "key": "安逸影院",
+            "name": "安逸影院",
             "type": 0,
             "api": "http://dy.51isu.com:11801/api.php/provide/vod/at/xml",
             "playUrl": "",
@@ -267,8 +267,8 @@
             ]
         },
         {
-            "key": "1886璧勬簮",
-            "name": "1886璧勬簮",
+            "key": "1886资源",
+            "name": "1886资源",
             "type": 1,
             "api": "http://cj.1886zy.co/inc/api.php",
             "playUrl": "",
@@ -276,8 +276,8 @@
             ]
         },
         {
-            "key": "铇戣弴璧勬簮",
-            "name": "铇戣弴璧勬簮",
+            "key": "蘑菇资源",
+            "name": "蘑菇资源",
             "type": 0,
             "api": "http://www.moguzyw.com:520/moguzy.php/provide/vod/at/xml/",
             "playUrl": "",
@@ -285,8 +285,8 @@
             ]
         },
         {
-            "key": "绾㈢墰璧勬簮",
-            "name": "绾㈢墰璧勬簮",
+            "key": "红牛资源",
+            "name": "红牛资源",
             "type": 0,
             "api": "https://www.hongniuzy.com/inc/api.php",
             "playUrl": "",
@@ -294,8 +294,8 @@
             ]
         },
         {
-            "key": "鎼滅嫄浼氬憳",
-            "name": "鎼滅嫄浼氬憳",
+            "key": "搜狐会员",
+            "name": "搜狐会员",
             "type": 0,
             "api": "http://api.000zy.com/provide/vod/from/sohu/at/xml/",
             "playUrl": "",
@@ -303,8 +303,8 @@
             ]
         },
         {
-            "key": "浼橀叿浼氬憳",
-            "name": "浼橀叿浼氬憳",
+            "key": "优酷会员",
+            "name": "优酷会员",
             "type": 0,
             "api": "http://api.000zy.com/provide/vod/from/youku/at/xml/",
             "playUrl": "",
@@ -312,8 +312,8 @@
             ]
         },
         {
-            "key": "鍖楁枟鏄�",
-            "name": "鍖楁枟鏄�",
+            "key": "北斗星",
+            "name": "北斗星",
             "type": 0,
             "api": "https://v8.bdxzyapi.com/inc/api.php",
             "playUrl": "",
@@ -321,8 +321,8 @@
             ]
         },
         {
-            "key": "灏忚溁铚�",
-            "name": "灏忚溁铚�",
+            "key": "小蜻蜓",
+            "name": "小蜻蜓",
             "type": 1,
             "api": "http://3ketv.com/api.php/provide/vod/",
             "playUrl": "",
@@ -330,8 +330,8 @@
             ]
         },
         {
-            "key": "褰辫TV",
-            "name": "褰辫TV",
+            "key": "影视TV",
+            "name": "影视TV",
             "type": 1,
             "api": "https://v.dtjos.com/api.php/provide/vod/",
             "playUrl": "",
@@ -339,15 +339,15 @@
             ]
         },
         {
-            "key": "9875褰遍櫌",
-            "name": "9875褰遍櫌",
+            "key": "9875影院",
+            "name": "9875影院",
             "type": 1,
             "api": "https://www.9875.xyz/api.php/provide/vod/",
             "playUrl": ""
         },
         {
-            "key": "瀛ゅ崟褰遍櫌",
-            "name": "瀛ゅ崟褰遍櫌",
+            "key": "孤单影院",
+            "name": "孤单影院",
             "type": 0,
             "api": "http://www.gudanys.com/api.php/provide/vod/at/xml",
             "playUrl": "",
@@ -355,8 +355,8 @@
             ]
         },
         {
-            "key": "77鐢靛奖",
-            "name": "77鐢靛奖",
+            "key": "77电影",
+            "name": "77电影",
             "type": 1,
             "api": "https://www.77diany.com/api.php/provide/vod/",
             "playUrl": "",
@@ -364,8 +364,8 @@
             ]
         },
         {
-            "key": "鐪熶笉鍗�",
-            "name": "鐪熶笉鍗�",
+            "key": "真不卡",
+            "name": "真不卡",
             "type": 0,
             "api": "http://db.taijuwang.cc/api.php/provide/vod/at/xml",
             "playUrl": "",
@@ -373,8 +373,8 @@
             ]
         },
         {
-            "key": "555褰辫",
-            "name": "555褰辫",
+            "key": "555影视",
+            "name": "555影视",
             "type": 0,
             "api": "http://www.zzrhgg.com/api.php/provide/vod/at/xml",
             "playUrl": "",
@@ -382,8 +382,8 @@
             ]
         },
         {
-            "key": "娓呮璧勬簮",
-            "name": "娓呮璧勬簮",
+            "key": "清欢资源",
+            "name": "清欢资源",
             "type": 1,
             "api": "https://www.qinghuanzy.cn/api.php/provide/vod/",
             "playUrl": "",
@@ -391,8 +391,8 @@
             ]
         },
         {
-            "key": "椋為奔璧勬簮",
-            "name": "椋為奔璧勬簮",
+            "key": "飞鱼资源",
+            "name": "飞鱼资源",
             "type": 0,
             "api": "https://app.feiyu5.com/api.php/provide/vod/at/xml/",
             "playUrl": "",
@@ -400,8 +400,8 @@
             ]
         },
         {
-            "key": "褰辨淳璧勬簮",
-            "name": "褰辨淳璧勬簮",
+            "key": "影派资源",
+            "name": "影派资源",
             "type": 0,
             "api": "https://v.dtjos.com/api.php/provide/vod/at/xml",
             "playUrl": "",
@@ -409,8 +409,8 @@
             ]
         },
         {
-            "key": "钃濇灉app",
-            "name": "钃濇灉app",
+            "key": "蓝果app",
+            "name": "蓝果app",
             "type": 0,
             "api": "http://www.languotv.com/api.php/provide/vod/at/xml",
             "playUrl": "",
@@ -418,8 +418,8 @@
             ]
         },
         {
-            "key": "鐣呰褰辫",
-            "name": "鐣呰褰辫",
+            "key": "畅视影视",
+            "name": "畅视影视",
             "type": 1,
             "api": "http://app.reboju.net/api.php/provide/vod/",
             "playUrl": "",
@@ -427,8 +427,8 @@
             ]
         },
         {
-            "key": "闆跺彿璧勬簮",
-            "name": "闆跺彿璧勬簮",
+            "key": "零号资源",
+            "name": "零号资源",
             "type": 0,
             "api": "http://api.000zy.com/provide/vod/at/xml",
             "playUrl": "",
@@ -436,8 +436,8 @@
             ]
         },
         {
-            "key": "TV鐩�",
-            "name": "TV鐩�",
+            "key": "TV盒",
+            "name": "TV盒",
             "type": 0,
             "api": "http://cms.tvbox543.com/api.php/provide/vod/at/xml",
             "playUrl": "",
@@ -445,8 +445,8 @@
             ]
         },
         {
-            "key": "鎾斁鍚�",
-            "name": "鎾斁鍚�",
+            "key": "播放吧",
+            "name": "播放吧",
             "type": 0,
             "api": "https://www.bofangya.com/api.php/provide/vod/at/xml",
             "playUrl": "",
@@ -459,7 +459,7 @@
             "group": "pglblb",
             "channels": [
                 {
-                    "name": "鍑ゅ嚢涓枃",
+                    "name": "凤凰中文",
                     "urls": [
                         "http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8",
                         "HD,http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8",
@@ -468,7 +468,7 @@
                     ]
                 },
                 {
-                    "name": "鍑ゅ嚢璧勮",
+                    "name": "凤凰资讯",
                     "urls": [
                         "http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8",
                         "HD,http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8",
@@ -476,7 +476,7 @@
                     ]
                 },
                 {
-                    "name": "4K澶",
+                    "name": "4K央视",
                     "urls": [
                         "http://liveop.cctv.cn/hls/4KHD/playlist.m3u8"
                     ]
